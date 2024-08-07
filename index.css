@@ -36,14 +36,14 @@ display: block;
 
   
 }
-
-.col-sm{
-    margin:50px 100px;
-    justify-content: space-evenly;
+.col-sm-4{
+  margin:50px 50px;
+  justify-content: space-evenly;
 }
+
 img{
-    margin:50px 50px;
-    padding-left: 50px;
+    margin:50px 20px;
+    padding-left: 30px;
 }
 .button-container{
     
